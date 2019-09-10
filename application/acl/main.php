@@ -2,7 +2,8 @@
 
 return [
     'all' => [
-        'index'
+        'index',
+        'setDeadline'
     ],
     'authorize' => [
         //
